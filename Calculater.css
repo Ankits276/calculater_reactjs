@@ -1,0 +1,23 @@
+.btn {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  width: 25%;
+}
+.output {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+}
+.addition {
+  background-color: teal;
+}
+.Subtract {
+  background-color: violet;
+}
+.multification {
+  background-color: darkgoldenrod;
+}
+.devide {
+  background-color: saddlebrown;
+}
